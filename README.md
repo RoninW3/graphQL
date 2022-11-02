@@ -1,2 +1,2 @@
 # graphQL
-graphQL project
+graphQL project from MIT xPro MERN program
